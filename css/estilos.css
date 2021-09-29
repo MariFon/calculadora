@@ -1,0 +1,25 @@
+body{
+    font-family: monospace;
+    min-height: 400px;
+    background-image: url('../imagens/icone.png');
+    background-repeat: no-repeat;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-color: #000;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.titulo{
+    color: #fff;
+    margin: 0 0 5px 5px;
+}
+
+.subtitulo{
+    color: #fff;
+    margin-top: 5px;
+}
