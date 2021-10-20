@@ -21,4 +21,4 @@ let mediaFixada= media.toFixed(1)
 
 console.log("Boas vindas " + nomeDoAluno)
 console.log("Media")
-console.log(mediaFixada)
+document.write(mediaFixada)
